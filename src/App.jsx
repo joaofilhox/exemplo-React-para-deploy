@@ -9,7 +9,7 @@ function App() {
   return (
     <>
     <h1>Olá Pessoal!!!</h1>
-    <p>Me chamo João Filho</p>
+    <p>Me chamo João </p>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
